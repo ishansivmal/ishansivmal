@@ -13,7 +13,7 @@
  
 - 🌱 I’m currently learning **Java**
 
-- 🧑‍🎓 I’m an Undergraduate at ** University of Ruhuna  Faculty of Technology FROM DRI LANKA**
+- 🧑‍🎓 I’m an Undergraduate at ** University of Ruhuna  Faculty of Technology FROM SRI LANKA **
 
 
 - 📫 How to reach me **ishansivmal@gmail.com**
