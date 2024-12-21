@@ -1,6 +1,6 @@
 <p align="center"><picture align="center"><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture></p>
-<h1 align="center"><img height="100" width="80" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/left.webp"><img id="typing-text" src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=35&center=true&vCenter=true&width=650&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Ishan+Sivmal">
-<img height="100" width="80" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/right.webp"></h1>
+<h1 align="center"><img height="100" width="81" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/left.webp"><img id="typing-text" src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=35&center=true&vCenter=true&width=650&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Ishan+Sivmal">
+<img height="100" width="81" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/right.webp"></h1>
 <h3 align="center">Undergraduate Student of University of Ruhuna  Faculty of Technology </h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ishansivmal&label=Profile%20views&color=0e75b6&style=flat" width="200" height="50" />
