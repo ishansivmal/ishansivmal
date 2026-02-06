@@ -40,13 +40,13 @@ I'm an **Undergraduate Student** at the **University of Ruhuna, Faculty of Techn
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 
 
-
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ishansivmal&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishansivmal&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ishansivmal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&include_all_commits=true&count_private=true" height="150em" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishansivmal&theme=tokyonight&hide_border=true&background=1a1b27&stroke=70a5fd&ring=bf91f3&fire=bf91f3&currStreakLabel=70a5fd" height="150em" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ishansivmal&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae" height="150em" />
+</p>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishansivmal&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
