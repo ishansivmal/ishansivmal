@@ -30,45 +30,27 @@ I'm an **Undergraduate Student** at the **University of Ruhuna, Faculty of Techn
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-
-### Database
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Design Tools
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ishansivmal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&include_all_commits=true&count_private=true" height="150em" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishansivmal&theme=tokyonight&hide_border=true&background=1a1b27&stroke=70a5fd&ring=bf91f3&fire=bf91f3&currStreakLabel=70a5fd" height="150em" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ishansivmal&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae" height="150em" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ishansivmal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&include_all_commits=true&count_private=true" height="140em" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishansivmal&theme=tokyonight&hide_border=true&background=1a1b27&stroke=70a5fd&ring=bf91f3&fire=bf91f3&currStreakLabel=70a5fd" height="140em" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ishansivmal&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae" height="140em" />
 </p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishansivmal&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</div>
-## 🚀 Current Focus
 
-```javascript
-const ishan = {
-    location: "Sri Lanka 🇱🇰",
-    education: "University of Ruhuna - Faculty of Technology",
-    currentlyLearning: ["TypeScript", "Advanced Java"],
-    workingOn: ["Java Projects", "MERN Stack Applications"],
-    skills: ["Full Stack Development", "Video Editing", "Graphic Design"],
-    funFact: "I debug code by day and edit videos by night! 🎬💻"
-};
-```
 
 ## 📫 Let's Connect!
 
 <div align="center">
   
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](ishansivmal@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ishansivmal@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishanivmal/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ishansivmal)
 
@@ -83,3 +65,5 @@ const ishan = {
   
   ⭐️ From [ishansivmal](https://github.com/ishansivmal)
 </div>
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
