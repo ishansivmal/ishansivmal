@@ -1,20 +1,20 @@
-# Hi there, I'm Ishan Sivmal! 👋
+
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Undergraduate+Student;Full+Stack+Developer;Creative+Designer;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
-## 👨‍🎓 About Me
+## Me
 
 I'm an **Undergraduate Student** at the **University of Ruhuna, Faculty of Technology**, passionate about building innovative solutions and creating meaningful digital experiences.
 
-- 🎓 Pursuing my degree in Technology
-- 💻 Full Stack Developer with a focus on MERN Stack
-- 🎨 Creative designer skilled in Adobe Premiere Pro & Photoshop
-- 🌱 Currently learning **TypeScript** and working on exciting **Java projects**
-- ⚡ Fun fact: I can code and edit videos – best of both worlds!
+-  Pursuing my degree in Technology
+-  Full Stack Developer with a focus on MERN Stack
+-  Creative designer skilled in Adobe Premiere Pro & Photoshop
+-  Currently learning **TypeScript** and working on exciting **Java projects**
+-  Fun fact: I can code and edit videos – best of both worlds!
 
-## 🛠️ Tech Stack
+## 
 
 ### Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -36,7 +36,7 @@ I'm an **Undergraduate Student** at the **University of Ruhuna, Faculty of Techn
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ishansivmal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&include_all_commits=true&count_private=true" height="140em" />
@@ -46,7 +46,7 @@ I'm an **Undergraduate Student** at the **University of Ruhuna, Faculty of Techn
 
 
 
-## 📫 Let's Connect!
+## Let's Connect!
 
 <div align="center">
   
