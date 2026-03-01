@@ -1,118 +1,62 @@
-# Hello there, <developers/>! 👋
+<div align="center">
 
-> *Welcome to my collection of open source projects! Feel free to fork and create your own version.* 😊
+# Hi, I'm Ishan 👋
 
-![Profile views](https://komarev.com/ghpvc/?username=ishansivmal&color=blue&style=flat-square&label=Profile+views)
+**Undergraduate @ University of Ruhuna, Faculty of Technology**
+Full Stack Developer · MERN Stack · Creative Designer
+
+![Profile views](https://komarev.com/ghpvc/?username=ishansivmal&color=blueviolet&style=flat-square&label=Profile+views)
+
+</div>
 
 ---
 
-## Most Used Languages & GitHub Stats
+### 🧑‍💻 About Me
+
+- 🎓 Studying **Technology** at University of Ruhuna
+- 💻 Building with the **MERN Stack** (MongoDB, Express, React, Node.js)
+- 🎨 Designing with **Adobe Premiere Pro** & **Photoshop**
+- 📘 Currently learning **TypeScript** & deepening **Java** skills
+- 🎬 Blending software development with video production
+
+---
+
+### 🗣️ Languages & Tools
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishansivmal&layout=pie&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&langs_count=8" height="250em" />
-  <img src="https://github-readme-stats.vercel.app/api?username=ishansivmal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&include_all_commits=true&count_private=true&rank_icon=github" height="250em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishansivmal&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
 </p>
 
 ---
 
-## Github Ranking
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ishansivmal&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishansivmal&theme=tokyonight&hide_border=true" height="160" />
+</p>
+
+---
+
+### 🏅 Ranking & Badges
 
 [![committers.top badge](https://user-badge.committers.top/sri_lanka/ishansivmal.svg)](https://user-badge.committers.top/sri_lanka/ishansivmal)
 
-### My Holopin Badges
-
-[![An image of @ishansivmal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ishansivmal)](https://holopin.io/@ishansivmal)
+[![Holopin badges](https://holopin.me/ishansivmal)](https://holopin.io/@ishansivmal)
 
 ---
 
-## About Me
-
-I am an **Undergraduate Student** at the **University of Ruhuna, Faculty of Technology**, passionate about building innovative solutions and creating meaningful digital experiences.
-
-| | |
-|---|---|
-| 🎓 | Pursuing a degree in **Technology** |
-| 💻 | Full Stack Developer specializing in the **MERN Stack** |
-| 🎨 | Creative Designer proficient in **Adobe Premiere Pro** & **Photoshop** |
-| 📘 | Currently deepening expertise in **TypeScript** and building **Java** projects |
-| 🎬 | Combining software development with video production |
-
----
-
-## Tech Stack
-
-### Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Design Tools
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
-
----
-
-## GitHub Analytics
+### 🔗 Connect
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishansivmal&theme=tokyonight&hide_border=true&background=1a1b27&stroke=70a5fd&ring=bf91f3&fire=bf91f3&currStreakLabel=70a5fd" height="170em" />
+  <a href="mailto:ishansivmal@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ishanivmal/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/ishansivmal"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
 </p>
-
-### Profile Summary
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ishansivmal&theme=tokyonight" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ishansivmal&theme=tokyonight" height="170em" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ishansivmal&theme=tokyonight" height="170em" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ishansivmal&theme=tokyonight" height="170em" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ishansivmal&theme=tokyonight&utcOffset=5.5" height="170em" />
-</p>
-
-### Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ishansivmal&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae" width="100%" />
-</p>
-
----
-
-## Connect With Me
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ishansivmal@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishanivmal/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ishansivmal)
-
-</div>
 
 ---
 
 <div align="center">
-
-> *"Code is like humor. When you have to explain it, it's bad."* – Cory House
-
-⭐️ From [ishansivmal](https://github.com/ishansivmal)
-
+  <sub><i>"Code is like humor. When you have to explain it, it's bad." – Cory House</i> – <a href="https://github.com/ishansivmal">ishansivmal</a>
+  </sub><br/><br/>
 </div>
-
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
