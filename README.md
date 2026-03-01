@@ -1,6 +1,27 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Undergraduate+Student;Full+Stack+Developer;Creative+Designer;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
-</div>
+# Hello there, &lt;developers/&gt;! 👋
+
+&gt; *Welcome to my collection of open source projects! Feel free to fork and create your own version.* 😊
+
+![Profile views](https://komarev.com/ghpvc/?username=ishansivmal&color=blue&style=flat-square&label=Profile+views)
+
+---
+
+## Most Used Languages &amp; GitHub Stats
+
+&lt;p align="center"&gt;
+  &lt;img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishansivmal&layout=pie&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&langs_count=8" height="250em" /&gt;
+  &lt;img src="https://github-readme-stats.vercel.app/api?username=ishansivmal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&include_all_commits=true&count_private=true&rank_icon=github" height="250em" /&gt;
+&lt;/p&gt;
+
+---
+
+## Github Ranking
+
+[![committers.top badge](https://user-badge.committers.top/sri_lanka/ishansivmal.svg)](https://user-badge.committers.top/sri_lanka/ishansivmal)
+
+### My Holopin Badges
+
+[![An image of @ishansivmal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ishansivmal)](https://holopin.io/@ishansivmal)
 
 ---
 
@@ -12,7 +33,7 @@ I am an **Undergraduate Student** at the **University of Ruhuna, Faculty of Tech
 |---|---|
 | 🎓 | Pursuing a degree in **Technology** |
 | 💻 | Full Stack Developer specializing in the **MERN Stack** |
-| 🎨 | Creative Designer proficient in **Adobe Premiere Pro** & **Photoshop** |
+| 🎨 | Creative Designer proficient in **Adobe Premiere Pro** &amp; **Photoshop** |
 | 📘 | Currently deepening expertise in **TypeScript** and building **Java** projects |
 | 🎬 | Combining software development with video production |
 
@@ -29,11 +50,10 @@ I am an **Undergraduate Student** at the **University of Ruhuna, Faculty of Tech
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Frameworks & Libraries
+### Frameworks &amp; Libraries
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -47,57 +67,50 @@ I am an **Undergraduate Student** at the **University of Ruhuna, Faculty of Tech
 
 ## GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ishansivmal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&include_all_commits=true&count_private=true" height="170em" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishansivmal&theme=tokyonight&hide_border=true&background=1a1b27&stroke=70a5fd&ring=bf91f3&fire=bf91f3&currStreakLabel=70a5fd" height="170em" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ishansivmal&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&langs_count=8" height="170em" />
-</p>
+&lt;p align="center"&gt;
+  &lt;img src="https://github-readme-streak-stats.herokuapp.com/?user=ishansivmal&theme=tokyonight&hide_border=true&background=1a1b27&stroke=70a5fd&ring=bf91f3&fire=bf91f3&currStreakLabel=70a5fd" height="170em" /&gt;
+&lt;/p&gt;
 
 ### Profile Summary
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ishansivmal&theme=tokyonight" width="100%" />
-</p>
+&lt;p align="center"&gt;
+  &lt;img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ishansivmal&theme=tokyonight" width="100%" /&gt;
+&lt;/p&gt;
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ishansivmal&theme=tokyonight" height="170em" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ishansivmal&theme=tokyonight" height="170em" />
-</p>
+&lt;p align="center"&gt;
+  &lt;img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ishansivmal&theme=tokyonight" height="170em" /&gt;
+  &lt;img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ishansivmal&theme=tokyonight" height="170em" /&gt;
+&lt;/p&gt;
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ishansivmal&theme=tokyonight" height="170em" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ishansivmal&theme=tokyonight&utcOffset=5.5" height="170em" />
-</p>
+&lt;p align="center"&gt;
+  &lt;img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ishansivmal&theme=tokyonight" height="170em" /&gt;
+  &lt;img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ishansivmal&theme=tokyonight&utcOffset=5.5" height="170em" /&gt;
+&lt;/p&gt;
 
 ### Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ishansivmal&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae" width="100%" />
-</p>
+&lt;p align="center"&gt;
+  &lt;img src="https://github-readme-activity-graph.vercel.app/graph?username=ishansivmal&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae" width="100%" /&gt;
+&lt;/p&gt;
 
 ---
 
 ## Connect With Me
 
-<div align="center">
+&lt;div align="center"&gt;
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ishansivmal@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishanivmal/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ishansivmal)
 
-</div>
+&lt;/div&gt;
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ishansivmal&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
-  
-  > *"Code is like humor. When you have to explain it, it's bad."* – Cory House
-  
-  ⭐️ From [ishansivmal](https://github.com/ishansivmal)
-</div>
+&lt;div align="center"&gt;
+  &gt; *"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+  ⭐️ From [ishansivmal](https://github.com/ishansivmal)
+&lt;/div&gt;
+
+&lt;img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" /&gt;
