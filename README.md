@@ -74,12 +74,17 @@
   </table>
 </p>
 
-<!--profile visit count-->
-<p align="center">
-  ![Profile views](https://komarev.com/ghpvc/?username=ishansivmal&color=blueviolet&style=flat-square&label=Profile_views)
-</p>
 
 <br>
+
+<!-- Contact Section -->
+## 🔗 Let's Connect!
+
+<p align="center">
+  <a href="mailto:ishansivmal@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="https://www.linkedin.com/in/ishansivmal/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/ishansivmal"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
+</p>
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
