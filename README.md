@@ -24,7 +24,7 @@ Full Stack Developer · MERN Stack · Creative Designer
 ### 🗣️ Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishansivmal&layout=donut&theme=tokyonight&hide_border=true&langs_count=8&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishansivmal&layout=pie&theme=tokyonight&hide_border=true&langs_count=8&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae" height="300" />
 </p>
 
 ---
