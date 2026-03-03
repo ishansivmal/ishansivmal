@@ -21,7 +21,7 @@
 - 🎨 **Designing with Adobe Premiere Pro & Photoshop**
 - 📘 **Currently learning TypeScript & deepening my Java skills**
 - 🎬 **Blending software development with video production**
-- 📧 Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&message=ishansivmal&color=EA4335&style=flat-square)](mailto:ishansivmal@gmail.com)
+
 
 <br>
 
