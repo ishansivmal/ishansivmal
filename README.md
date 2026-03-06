@@ -53,14 +53,12 @@
   <table align="center">
     <tr>
       <td>
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=ishansivmal&theme=dark&show_icons=true&count_private=true" />
         <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishansivmal&theme=dark&hide_border=false" />
       </td>
       <td align="center" valign="middle">
-        <img src="https://github-readme-stats-eight-azure-5q3ds8wi7s.vercel.app/api/top-langs/?username=ishansivmal&layout=pie&langs_count=7&hide_border=true&count_private=true&hide=css,html" alt="Top Languages" width="230" />
+        <img src="https://quickchart.io/chart?c=%7B%22type%22%3A%22pie%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22JavaScript%2040%25%22%2C%22Python%2026%25%22%2C%22Java%2016%25%22%2C%22HTML%2010%25%22%2C%22C%208%25%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B40%2C26%2C16%2C10%2C8%5D%2C%22backgroundColor%22%3A%5B%22%23F7DF1E%22%2C%22%233776AB%22%2C%22%23f89820%22%2C%22%23E34F26%22%2C%22%23A8B9CC%22%5D%2C%22borderColor%22%3A%22%23161b22%22%2C%22borderWidth%22%3A3%7D%5D%7D%2C%22options%22%3A%7B%22plugins%22%3A%7B%22legend%22%3A%7B%22position%22%3A%22bottom%22%2C%22labels%22%3A%7B%22color%22%3A%22%23e6edf3%22%2C%22font%22%3A%7B%22size%22%3A14%2C%22weight%22%3A%22bold%22%7D%2C%22padding%22%3A14%2C%22boxWidth%22%3A14%2C%22boxHeight%22%3A14%7D%7D%2C%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22Most%20Used%20Languages%22%2C%22color%22%3A%22%2358a6ff%22%2C%22font%22%3A%7B%22size%22%3A16%2C%22weight%22%3A%22bold%22%7D%2C%22padding%22%3A%7B%22top%22%3A10%2C%22bottom%22%3A10%7D%7D%7D%7D%7D&backgroundColor=%23161b22&width=380&height=380" alt="Most Used Languages" width="380" />
       </td>
     </tr>
-    <!-- ✅ ROW 2 - Badges -->
     <!-- ✅ ROW 2 - Badges fixed -->
     <tr>
       <td colspan="2" align="center">
