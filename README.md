@@ -56,27 +56,25 @@
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=ishansivmal&theme=dark&show_icons=true&count_private=true" />
         <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishansivmal&theme=dark&hide_border=false" />
       </td>
-      <td>
-        <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ishansivmal&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=7" />
+      <td align="center" valign="middle">
+        <img src="https://github-readme-stats-eight-azure-5q3ds8wi7s.vercel.app/api/top-langs/?username=ishansivmal&layout=pie&langs_count=7&hide_border=true&count_private=true&hide=css,html" alt="Top Languages" width="230" />
       </td>
     </tr>
     <!-- ✅ ROW 2 - Badges -->
     <!-- ✅ ROW 2 - Badges fixed -->
-<tr>
-  <td colspan="2" align="center">
-    <br>
-    <img src="https://img.shields.io/github/followers/ishansivmal?label=Followers&style=for-the-badge&color=green&logo=github" alt="Followers" />
-    &nbsp;
-    <img src="https://img.shields.io/github/stars/ishansivmal?label=Total%20Stars&style=for-the-badge&color=yellow&logo=github&affiliations=OWNER" alt="Total Stars" />
-    &nbsp;
-    <img src="https://img.shields.io/badge/Contributions-362-orange?style=for-the-badge&logo=github" alt="Contributions" />
-    &nbsp;
-    <img src="https://img.shields.io/badge/Total%20Repos-20-blue?style=for-the-badge&logo=github" alt="Total Repos" />
-    &nbsp;
-   
-   
-  </td>
-</tr>
+    <tr>
+      <td colspan="2" align="center">
+        <br>
+        <img src="https://img.shields.io/github/followers/ishansivmal?label=Followers&style=for-the-badge&color=green&logo=github" alt="Followers" />
+        &nbsp;
+        <img src="https://img.shields.io/github/stars/ishansivmal?label=Total%20Stars&style=for-the-badge&color=yellow&logo=github&affiliations=OWNER" alt="Total Stars" />
+        &nbsp;
+        <img src="https://img.shields.io/badge/Contributions-362-orange?style=for-the-badge&logo=github" alt="Contributions" />
+        &nbsp;
+        <img src="https://img.shields.io/badge/Total%20Repos-20-blue?style=for-the-badge&logo=github" alt="Total Repos" />
+        &nbsp;
+      </td>
+    </tr>
     <!-- ✅ ROW 3 - Contribution graph -->
     <tr>
       <td colspan="2" align="center">
@@ -96,7 +94,6 @@
   <a href="https://www.linkedin.com/in/ishansivmal/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://github.com/ishansivmal"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
-
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
